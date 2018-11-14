@@ -20,6 +20,7 @@ const OBLOQ_MQTT_DEFAULT_SERVER = true
 //DFRobot easy iot
 const OBLOQ_MQTT_EASY_IOT_SERVER_CHINA = "iot.dfrobot.com.cn"
 const OBLOQ_MQTT_EASY_IOT_SERVER_GLOBAL = "iot.dfrobot.com.com"
+const OBLOQ_MQTT_EASY_IOT_SERVER_LOCAL = "192.168.1.4"
 const OBLOQ_MQTT_EASY_IOT_PORT = 1883
 //other iot
 const OBLOQ_MQTT_USER_IOT_SERVER = "---.-----.---"
